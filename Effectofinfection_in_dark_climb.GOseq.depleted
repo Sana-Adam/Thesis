@@ -1,0 +1,37 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0005839	1	0.00503197199860744	0	28	proteasome core complex	CC	0.9999999999	0.9999999999	CC proteasome core complex
+GO:0000502	0.998536526758036	0.00546242372738679	4	62	proteasome complex	CC	0.9999999999	0.9999999999	CC proteasome complex
+GO:0046134	1	0.0138382571031672	0	24	pyrimidine nucleoside biosynthetic process	BP	0.9999999999	0.9999999999	BP pyrimidine nucleoside biosynthetic process
+GO:0031497	1	0.016681183282875	0	15	chromatin assembly	BP	0.9999999999	0.9999999999	BP chromatin assembly
+GO:1990204	0.992112179362335	0.0207953452908382	6	74	oxidoreductase complex	CC	0.9999999999	0.9999999999	CC oxidoreductase complex
+GO:0030150	1	0.0220244292023196	0	17	protein import into mitochondrial matrix	BP	0.9999999999	0.9999999999	BP protein import into mitochondrial matrix
+GO:0033363	1	0.0227507853436988	0	17	secretory granule organization	BP	0.9999999999	0.9999999999	BP secretory granule organization
+GO:0032944	0.996882568293993	0.0232663538613233	1	26	regulation of mononuclear cell proliferation	BP	0.9999999999	0.9999999999	BP regulation of mononuclear cell proliferation
+GO:0050670	0.996882568293993	0.0232663538613233	1	26	regulation of lymphocyte proliferation	BP	0.9999999999	0.9999999999	BP regulation of lymphocyte proliferation
+GO:0070663	0.996882568293993	0.0232663538613233	1	26	regulation of leukocyte proliferation	BP	0.9999999999	0.9999999999	BP regulation of leukocyte proliferation
+GO:0016059	1	0.0267685736764402	0	12	deactivation of rhodopsin mediated signaling	BP	0.9999999999	0.9999999999	BP deactivation of rhodopsin mediated signaling
+GO:0022400	1	0.0267685736764402	0	12	regulation of rhodopsin mediated signaling pathway	BP	0.9999999999	0.9999999999	BP regulation of rhodopsin mediated signaling pathway
+GO:0046132	1	0.0272590311764061	0	20	pyrimidine ribonucleoside biosynthetic process	BP	0.9999999999	0.9999999999	BP pyrimidine ribonucleoside biosynthetic process
+GO:0008277	0.991281382053008	0.0274255793383991	4	42	regulation of G-protein coupled receptor protein signaling pathway	BP	0.9999999999	0.9999999999	BP regulation of G-protein coupled receptor protein signaling pathway
+GO:0010755	1	0.0316701306877664	0	11	regulation of plasminogen activation	BP	0.9999999999	0.9999999999	BP regulation of plasminogen activation
+GO:0010756	1	0.0316701306877664	0	11	positive regulation of plasminogen activation	BP	0.9999999999	0.9999999999	BP positive regulation of plasminogen activation
+GO:0007632	0.995284131819052	0.0336925239957105	1	20	visual behavior	BP	0.9999999999	0.9999999999	BP visual behavior
+GO:0006333	0.992483659126869	0.0337002162082054	2	27	chromatin assembly or disassembly	BP	0.9999999999	0.9999999999	BP chromatin assembly or disassembly
+GO:0019706	1	0.0342139935048489	0	17	protein-cysteine S-palmitoyltransferase activity	MF	0.9999999999	0.9999999999	MF protein-cysteine S-palmitoyltransferase activity
+GO:0019707	1	0.0342139935048489	0	17	protein-cysteine S-acyltransferase activity	MF	0.9999999999	0.9999999999	MF protein-cysteine S-acyltransferase activity
+GO:0016655	0.994884069379756	0.0343196096044084	1	34	oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	MF	0.9999999999	0.9999999999	MF oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor
+GO:0005484	0.992260326356213	0.0344060066501847	2	28	SNAP receptor activity	MF	0.9999999999	0.9999999999	MF SNAP receptor activity
+GO:0009975	0.986884672059741	0.0355199105239082	5	52	cyclase activity	MF	0.9999999999	0.9999999999	MF cyclase activity
+GO:0005832	1	0.036487668484753	0	13	chaperonin-containing T-complex	CC	0.9999999999	0.9999999999	CC chaperonin-containing T-complex
+GO:0051117	0.994419212285838	0.0375146320624103	1	27	ATPase binding	MF	0.9999999999	0.9999999999	MF ATPase binding
+GO:0001816	1	0.037612177505314	0	12	cytokine production	BP	0.9999999999	0.9999999999	BP cytokine production
+GO:0016884	1	0.0387487310739827	0	12	carbon-nitrogen ligase activity, with glutamine as amido-N-donor	MF	0.9999999999	0.9999999999	MF carbon-nitrogen ligase activity, with glutamine as amido-N-donor
+GO:0061343	0.990996084091826	0.0393557259646192	2	26	cell adhesion involved in heart morphogenesis	BP	0.9999999999	0.9999999999	BP cell adhesion involved in heart morphogenesis
+GO:0048284	0.979880563572326	0.0403163810165461	11	76	organelle fusion	BP	0.9999999999	0.9999999999	BP organelle fusion
+GO:0044445	0.973418189333113	0.0426478546760603	22	227	cytosolic part	CC	0.9999999999	0.9999999999	CC cytosolic part
+GO:0016849	0.983789208543713	0.0427856472250121	5	51	phosphorus-oxygen lyase activity	MF	0.9999999999	0.9999999999	MF phosphorus-oxygen lyase activity
+GO:0006182	0.983090513336687	0.0448226758591826	5	45	cGMP biosynthetic process	BP	0.9999999999	0.9999999999	BP cGMP biosynthetic process
+GO:0071339	0.993282501157925	0.0451755486641848	1	19	MLL1 complex	CC	0.9999999999	0.9999999999	CC MLL1 complex
+GO:0034110	0.978546540438003	0.0464743959831292	8	71	regulation of homotypic cell-cell adhesion	BP	0.9999999999	0.9999999999	BP regulation of homotypic cell-cell adhesion
+GO:0090599	1	0.0466776170578936	0	21	alpha-glucosidase activity	MF	0.9999999999	0.9999999999	MF alpha-glucosidase activity
+GO:0031072	0.985548257980847	0.048388240697542	3	32	heat shock protein binding	MF	0.9999999999	0.9999999999	MF heat shock protein binding

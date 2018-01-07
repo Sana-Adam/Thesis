@@ -1,0 +1,45 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0005839	1	0.00404327541007855	0	28	proteasome core complex	CC	0.9999999999	0.9999999999	CC proteasome core complex
+GO:0005868	0.998840454707359	0.00494500884842981	3	96	cytoplasmic dynein complex	CC	0.9999999999	0.9999999999	CC cytoplasmic dynein complex
+GO:0051117	1	0.00523991403598746	0	27	ATPase binding	MF	0.9999999999	0.9999999999	MF ATPase binding
+GO:0090502	0.999292892153302	0.00644636796971804	1	33	RNA phosphodiester bond hydrolysis, endonucleolytic	BP	0.9999999999	0.9999999999	BP RNA phosphodiester bond hydrolysis, endonucleolytic
+GO:0090501	0.998459542583099	0.00665868534549589	3	49	RNA phosphodiester bond hydrolysis	BP	0.9999999999	0.9999999999	BP RNA phosphodiester bond hydrolysis
+GO:0042129	1	0.00687416566531959	0	23	regulation of T cell proliferation	BP	0.9999999999	0.9999999999	BP regulation of T cell proliferation
+GO:0006623	1	0.00712409970559549	0	20	protein targeting to vacuole	BP	0.9999999999	0.9999999999	BP protein targeting to vacuole
+GO:0072665	1	0.00712409970559549	0	20	protein localization to vacuole	BP	0.9999999999	0.9999999999	BP protein localization to vacuole
+GO:0072666	1	0.00712409970559549	0	20	establishment of protein localization to vacuole	BP	0.9999999999	0.9999999999	BP establishment of protein localization to vacuole
+GO:0045502	0.99666128432951	0.00938298116945071	6	113	NA	NA	0.9999999999	0.9999999999	none
+GO:0004298	1	0.0133156223811434	0	24	threonine-type endopeptidase activity	MF	0.9999999999	0.9999999999	MF threonine-type endopeptidase activity
+GO:0070003	1	0.0133156223811434	0	24	threonine-type peptidase activity	MF	0.9999999999	0.9999999999	MF threonine-type peptidase activity
+GO:0031497	1	0.0144135834554763	0	15	chromatin assembly	BP	0.9999999999	0.9999999999	BP chromatin assembly
+GO:0045505	0.994875540483919	0.0163243949719777	4	95	dynein intermediate chain binding	MF	0.9999999999	0.9999999999	MF dynein intermediate chain binding
+GO:0016405	1	0.018870556261634	0	14	CoA-ligase activity	MF	0.9999999999	0.9999999999	MF CoA-ligase activity
+GO:0032944	0.997486188116029	0.0194397157544773	1	26	regulation of mononuclear cell proliferation	BP	0.9999999999	0.9999999999	BP regulation of mononuclear cell proliferation
+GO:0050670	0.997486188116029	0.0194397157544773	1	26	regulation of lymphocyte proliferation	BP	0.9999999999	0.9999999999	BP regulation of lymphocyte proliferation
+GO:0070663	0.997486188116029	0.0194397157544773	1	26	regulation of leukocyte proliferation	BP	0.9999999999	0.9999999999	BP regulation of leukocyte proliferation
+GO:0051282	1	0.0197301988155396	0	12	regulation of sequestering of calcium ion	BP	0.9999999999	0.9999999999	BP regulation of sequestering of calcium ion
+GO:0051283	1	0.0197301988155396	0	12	negative regulation of sequestering of calcium ion	BP	0.9999999999	0.9999999999	BP negative regulation of sequestering of calcium ion
+GO:0030286	0.990370449395775	0.021176180888422	9	141	dynein complex	CC	0.9999999999	0.9999999999	CC dynein complex
+GO:0034389	1	0.0223331038885537	0	17	lipid particle organization	BP	0.9999999999	0.9999999999	BP lipid particle organization
+GO:0006458	0.99709539665671	0.0223432798261981	1	22	'de novo' protein folding	BP	0.9999999999	0.9999999999	BP 'de novo' protein folding
+GO:0008227	0.994306483260267	0.0269201571797385	2	25	G-protein coupled amine receptor activity	MF	0.9999999999	0.9999999999	MF G-protein coupled amine receptor activity
+GO:0006333	0.993962313205875	0.0280281096065173	2	27	chromatin assembly or disassembly	BP	0.9999999999	0.9999999999	BP chromatin assembly or disassembly
+GO:0016655	0.995899584503171	0.0285704237998338	1	34	oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	MF	0.9999999999	0.9999999999	MF oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor
+GO:0000502	0.988279194548098	0.029909917420863	6	62	proteasome complex	CC	0.9999999999	0.9999999999	CC proteasome complex
+GO:0019706	1	0.0299957124077853	0	17	protein-cysteine S-palmitoyltransferase activity	MF	0.9999999999	0.9999999999	MF protein-cysteine S-palmitoyltransferase activity
+GO:0019707	1	0.0299957124077853	0	17	protein-cysteine S-acyltransferase activity	MF	0.9999999999	0.9999999999	MF protein-cysteine S-acyltransferase activity
+GO:0005832	1	0.0318067302338364	0	13	chaperonin-containing T-complex	CC	0.9999999999	0.9999999999	CC chaperonin-containing T-complex
+GO:0003341	0.985334766849827	0.03527614881743	6	126	cilium movement	BP	0.9999999999	0.9999999999	BP cilium movement
+GO:0060401	1	0.0358452941186886	0	14	cytosolic calcium ion transport	BP	0.9999999999	0.9999999999	BP cytosolic calcium ion transport
+GO:0060402	1	0.0358452941186886	0	14	calcium ion transport into cytosol	BP	0.9999999999	0.9999999999	BP calcium ion transport into cytosol
+GO:0000478	0.994393162373963	0.0377800228235793	1	26	endonucleolytic cleavage involved in rRNA processing	BP	0.9999999999	0.9999999999	BP endonucleolytic cleavage involved in rRNA processing
+GO:0071339	0.994476711359746	0.0385587396411851	1	19	MLL1 complex	CC	0.9999999999	0.9999999999	CC MLL1 complex
+GO:0070584	0.990559309158366	0.0415203557271133	2	23	mitochondrion morphogenesis	BP	0.9999999999	0.9999999999	BP mitochondrion morphogenesis
+GO:1902914	1	0.0425842680301698	0	12	regulation of protein polyubiquitination	BP	0.9999999999	0.9999999999	BP regulation of protein polyubiquitination
+GO:0006814	0.976051004073043	0.0426424957536438	15	133	sodium ion transport	BP	0.9999999999	0.9999999999	BP sodium ion transport
+GO:0000479	0.993507317939674	0.0427338927721884	1	25	endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP	0.9999999999	0.9999999999	BP endonucleolytic cleavage of tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0000447	1	0.0430440264993123	0	17	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP	0.9999999999	0.9999999999	BP endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0001103	1	0.0468859202079538	0	18	RNA polymerase II repressing transcription factor binding	MF	0.9999999999	0.9999999999	MF RNA polymerase II repressing transcription factor binding
+GO:0036159	0.992293653280388	0.0473658225183338	1	44	inner dynein arm assembly	BP	0.9999999999	0.9999999999	BP inner dynein arm assembly
+GO:0045503	0.980363580282716	0.0489383266616539	5	96	dynein light chain binding	MF	0.9999999999	0.9999999999	MF dynein light chain binding
+GO:2000641	1	0.0489484621840665	0	11	regulation of early endosome to late endosome transport	BP	0.9999999999	0.9999999999	BP regulation of early endosome to late endosome transport

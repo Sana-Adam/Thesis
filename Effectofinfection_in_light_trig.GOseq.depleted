@@ -1,0 +1,37 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0016849	0.99993967645761	0.000449137192190048	2	51	phosphorus-oxygen lyase activity	MF	0.9999999999	0.9999999999	MF phosphorus-oxygen lyase activity
+GO:0006182	0.99993927830782	0.000458562389681183	2	45	cGMP biosynthetic process	BP	0.9999999999	0.9999999999	BP cGMP biosynthetic process
+GO:0004383	0.999885015430487	0.000821541548788432	2	43	guanylate cyclase activity	MF	0.9999999999	0.9999999999	MF guanylate cyclase activity
+GO:0008074	0.999885015430487	0.000821541548788432	2	43	guanylate cyclase complex, soluble	CC	0.9999999999	0.9999999999	CC guanylate cyclase complex, soluble
+GO:0046068	0.999842299204067	0.000850426702163694	3	53	cGMP metabolic process	BP	0.9999999999	0.9999999999	BP cGMP metabolic process
+GO:0009975	0.999665419129943	0.00168531692042118	3	52	cyclase activity	MF	0.9999999999	0.9999999999	MF cyclase activity
+GO:0008227	0.999609072171767	0.00399592202978373	1	25	G-protein coupled amine receptor activity	MF	0.9999999999	0.9999999999	MF G-protein coupled amine receptor activity
+GO:0009190	0.998777136237298	0.00468107789409044	4	57	cyclic nucleotide biosynthetic process	BP	0.9999999999	0.9999999999	BP cyclic nucleotide biosynthetic process
+GO:0052652	0.998777136237298	0.00468107789409044	4	57	cyclic purine nucleotide metabolic process	BP	0.9999999999	0.9999999999	BP cyclic purine nucleotide metabolic process
+GO:0000502	0.997579815437332	0.00781759163908813	5	62	proteasome complex	CC	0.9999999999	0.9999999999	CC proteasome complex
+GO:0098562	0.997673015878311	0.0120976815698431	2	34	cytoplasmic side of membrane	CC	0.9999999999	0.9999999999	CC cytoplasmic side of membrane
+GO:0048790	1	0.0131984844644121	0	21	maintenance of presynaptic active zone structure	BP	0.9999999999	0.9999999999	BP maintenance of presynaptic active zone structure
+GO:0060856	0.997419707571817	0.0133612468710342	2	31	establishment of blood-brain barrier	BP	0.9999999999	0.9999999999	BP establishment of blood-brain barrier
+GO:0060857	0.997330614708712	0.0138100106963809	2	30	establishment of glial blood-brain barrier	BP	0.9999999999	0.9999999999	BP establishment of glial blood-brain barrier
+GO:0042273	0.998083621152903	0.0152080635188518	1	31	ribosomal large subunit biogenesis	BP	0.9999999999	0.9999999999	BP ribosomal large subunit biogenesis
+GO:0009898	0.996206411946187	0.018601441320259	2	31	cytoplasmic side of plasma membrane	CC	0.9999999999	0.9999999999	CC cytoplasmic side of plasma membrane
+GO:0010755	1	0.0229649382830718	0	11	regulation of plasminogen activation	BP	0.9999999999	0.9999999999	BP regulation of plasminogen activation
+GO:0010756	1	0.0229649382830718	0	11	positive regulation of plasminogen activation	BP	0.9999999999	0.9999999999	BP positive regulation of plasminogen activation
+GO:0005839	0.9968686471261	0.0231873965353545	1	28	proteasome core complex	CC	0.9999999999	0.9999999999	CC proteasome core complex
+GO:0005310	0.994753837653916	0.0243068618613037	2	34	dicarboxylic acid transmembrane transporter activity	MF	0.9999999999	0.9999999999	MF dicarboxylic acid transmembrane transporter activity
+GO:1990204	0.989794581306102	0.0248812080261644	7	74	oxidoreductase complex	CC	0.9999999999	0.9999999999	CC oxidoreductase complex
+GO:0080008	1	0.025136005492172	0	18	Cul4-RING E3 ubiquitin ligase complex	CC	0.9999999999	0.9999999999	CC Cul4-RING E3 ubiquitin ligase complex
+GO:0042254	0.991005638535006	0.0255179199271047	5	52	ribosome biogenesis	BP	0.9999999999	0.9999999999	BP ribosome biogenesis
+GO:0016594	1	0.0353420218500783	0	12	glycine binding	MF	0.9999999999	0.9999999999	MF glycine binding
+GO:0000447	1	0.0376543494204758	0	17	endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	BP	0.9999999999	0.9999999999	BP endonucleolytic cleavage in ITS1 to separate SSU-rRNA from 5.8S rRNA and LSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)
+GO:0022613	0.981389877055894	0.0382728365233412	10	82	ribonucleoprotein complex biogenesis	BP	0.9999999999	0.9999999999	BP ribonucleoprotein complex biogenesis
+GO:0044782	0.994004476965052	0.0399089286608263	1	26	cilium organization	BP	0.9999999999	0.9999999999	BP cilium organization
+GO:0035095	0.994318030427178	0.0400260808418598	1	17	behavioral response to nicotine	BP	0.9999999999	0.9999999999	BP behavioral response to nicotine
+GO:0019934	0.993759225810819	0.0418858252234574	1	22	cGMP-mediated signaling	BP	0.9999999999	0.9999999999	BP cGMP-mediated signaling
+GO:0016012	1	0.0426162912052054	0	11	sarcoglycan complex	CC	0.9999999999	0.9999999999	CC sarcoglycan complex
+GO:0008053	1	0.0427817815945372	0	9	mitochondrial fusion	BP	0.9999999999	0.9999999999	BP mitochondrial fusion
+GO:0032007	0.993295290846863	0.0442020107746745	1	23	negative regulation of TOR signaling	BP	0.9999999999	0.9999999999	BP negative regulation of TOR signaling
+GO:1902475	1	0.0453438306201819	0	9	L-alpha-amino acid transmembrane transport	BP	0.9999999999	0.9999999999	BP L-alpha-amino acid transmembrane transport
+GO:0005249	0.979330465567202	0.0471339006949345	7	61	voltage-gated potassium channel activity	MF	0.9999999999	0.9999999999	MF voltage-gated potassium channel activity
+GO:0005261	0.967887396043352	0.0485876498043828	30	188	cation channel activity	MF	0.9999999999	0.9999999999	MF cation channel activity
+GO:0005262	0.975425075505385	0.0499425318780486	10	64	calcium channel activity	MF	0.9999999999	0.9999999999	MF calcium channel activity

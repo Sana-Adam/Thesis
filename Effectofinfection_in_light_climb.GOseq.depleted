@@ -1,0 +1,71 @@
+category	over_represented_pvalue	under_represented_pvalue	numDEInCat	numInCat	term	ontology	over_represented_FDR	under_represented_FDR	go_term
+GO:0009975	0.999858090923489	0.000972606991653127	2	52	cyclase activity	MF	0.9999999999	0.9999999999	MF cyclase activity
+GO:0016849	0.999810986582132	0.0012616115330976	2	51	phosphorus-oxygen lyase activity	MF	0.9999999999	0.9999999999	MF phosphorus-oxygen lyase activity
+GO:0006182	0.999809056130457	0.00128985781520976	2	45	cGMP biosynthetic process	BP	0.9999999999	0.9999999999	BP cGMP biosynthetic process
+GO:0000502	0.999653484408091	0.001711060143545	3	62	proteasome complex	CC	0.9999999999	0.9999999999	CC proteasome complex
+GO:0004383	0.999661908424238	0.00216190978265024	2	43	guanylate cyclase activity	MF	0.9999999999	0.9999999999	MF guanylate cyclase activity
+GO:0008074	0.999661908424238	0.00216190978265024	2	43	guanylate cyclase complex, soluble	CC	0.9999999999	0.9999999999	CC guanylate cyclase complex, soluble
+GO:0046068	0.999498053737127	0.00242517429233658	3	53	cGMP metabolic process	BP	0.9999999999	0.9999999999	BP cGMP metabolic process
+GO:0032944	1	0.00345699566149031	0	26	regulation of mononuclear cell proliferation	BP	0.9999999999	0.9999999999	BP regulation of mononuclear cell proliferation
+GO:0050670	1	0.00345699566149031	0	26	regulation of lymphocyte proliferation	BP	0.9999999999	0.9999999999	BP regulation of lymphocyte proliferation
+GO:0070663	1	0.00345699566149031	0	26	regulation of leukocyte proliferation	BP	0.9999999999	0.9999999999	BP regulation of leukocyte proliferation
+GO:0042273	1	0.00356930195385185	0	31	ribosomal large subunit biogenesis	BP	0.9999999999	0.9999999999	BP ribosomal large subunit biogenesis
+GO:0060856	0.999444120907531	0.00527093669488576	1	31	establishment of blood-brain barrier	BP	0.9999999999	0.9999999999	BP establishment of blood-brain barrier
+GO:0060857	0.999426088218808	0.00543884869936313	1	30	establishment of glial blood-brain barrier	BP	0.9999999999	0.9999999999	BP establishment of glial blood-brain barrier
+GO:0042129	1	0.00901463906897863	0	23	regulation of T cell proliferation	BP	0.9999999999	0.9999999999	BP regulation of T cell proliferation
+GO:0022613	0.996562674317551	0.00927134583662859	7	82	ribonucleoprotein complex biogenesis	BP	0.9999999999	0.9999999999	BP ribonucleoprotein complex biogenesis
+GO:0044801	0.996303384617059	0.00956560489316774	8	72	single-organism membrane fusion	BP	0.9999999999	0.9999999999	BP single-organism membrane fusion
+GO:0009190	0.996705169339774	0.0113568301876483	4	57	cyclic nucleotide biosynthetic process	BP	0.9999999999	0.9999999999	BP cyclic nucleotide biosynthetic process
+GO:0052652	0.996705169339774	0.0113568301876483	4	57	cyclic purine nucleotide metabolic process	BP	0.9999999999	0.9999999999	BP cyclic purine nucleotide metabolic process
+GO:0034198	0.998618257470604	0.0116887274196772	1	27	cellular response to amino acid starvation	BP	0.9999999999	0.9999999999	BP cellular response to amino acid starvation
+GO:0070584	0.998554392168306	0.0123833496720602	1	23	mitochondrion morphogenesis	BP	0.9999999999	0.9999999999	BP mitochondrion morphogenesis
+GO:0061025	0.993519135462799	0.0130209548576146	15	106	membrane fusion	BP	0.9999999999	0.9999999999	BP membrane fusion
+GO:0005919	1	0.0182056476205845	0	14	pleated septate junction	CC	0.9999999999	0.9999999999	CC pleated septate junction
+GO:0050777	0.993570340493281	0.0189770735051797	5	52	negative regulation of immune response	BP	0.9999999999	0.9999999999	BP negative regulation of immune response
+GO:0042254	0.994064799521298	0.0192427272053318	4	52	ribosome biogenesis	BP	0.9999999999	0.9999999999	BP ribosome biogenesis
+GO:0006513	0.994170421453114	0.0193022219711786	4	42	protein monoubiquitination	BP	0.9999999999	0.9999999999	BP protein monoubiquitination
+GO:0060148	1	0.0223115075316861	0	20	positive regulation of posttranscriptional gene silencing	BP	0.9999999999	0.9999999999	BP positive regulation of posttranscriptional gene silencing
+GO:0019935	0.993744687795245	0.0230302540238279	3	43	cyclic-nucleotide-mediated signaling	BP	0.9999999999	0.9999999999	BP cyclic-nucleotide-mediated signaling
+GO:0048284	0.98935692136385	0.0232628343338137	10	76	organelle fusion	BP	0.9999999999	0.9999999999	BP organelle fusion
+GO:0016405	1	0.0232728793807289	0	14	CoA-ligase activity	MF	0.9999999999	0.9999999999	MF CoA-ligase activity
+GO:0032409	0.991558058093316	0.0242137443943875	5	50	regulation of transporter activity	BP	0.9999999999	0.9999999999	BP regulation of transporter activity
+GO:0030687	0.996633836756464	0.0243509435439191	1	32	preribosome, large subunit precursor	CC	0.9999999999	0.9999999999	CC preribosome, large subunit precursor
+GO:0045806	1	0.0249073447845274	0	15	negative regulation of endocytosis	BP	0.9999999999	0.9999999999	BP negative regulation of endocytosis
+GO:0003724	0.988822815256514	0.025145296925907	9	71	RNA helicase activity	MF	0.9999999999	0.9999999999	MF RNA helicase activity
+GO:0003351	1	0.0251454737598639	0	34	epithelial cilium movement	BP	0.9999999999	0.9999999999	BP epithelial cilium movement
+GO:0030684	0.989191793532617	0.0262370040713891	7	72	preribosome	CC	0.9999999999	0.9999999999	CC preribosome
+GO:0022898	0.989726888204457	0.0288210751368084	5	49	regulation of transmembrane transporter activity	BP	0.9999999999	0.9999999999	BP regulation of transmembrane transporter activity
+GO:0032412	0.989726888204457	0.0288210751368084	5	49	regulation of ion transmembrane transporter activity	BP	0.9999999999	0.9999999999	BP regulation of ion transmembrane transporter activity
+GO:0032785	1	0.0315134393726051	0	15	negative regulation of DNA-templated transcription, elongation	BP	0.9999999999	0.9999999999	BP negative regulation of DNA-templated transcription, elongation
+GO:0010755	1	0.0331463099005173	0	11	regulation of plasminogen activation	BP	0.9999999999	0.9999999999	BP regulation of plasminogen activation
+GO:0010756	1	0.0331463099005173	0	11	positive regulation of plasminogen activation	BP	0.9999999999	0.9999999999	BP positive regulation of plasminogen activation
+GO:0044445	0.979826410574403	0.0333317408161426	21	227	cytosolic part	CC	0.9999999999	0.9999999999	CC cytosolic part
+GO:0035267	1	0.0335304340584218	0	21	NuA4 histone acetyltransferase complex	CC	0.9999999999	0.9999999999	CC NuA4 histone acetyltransferase complex
+GO:0043189	1	0.0335304340584218	0	21	H4/H2A histone acetyltransferase complex	CC	0.9999999999	0.9999999999	CC H4/H2A histone acetyltransferase complex
+GO:1902562	1	0.0335304340584218	0	21	H4 histone acetyltransferase complex	CC	0.9999999999	0.9999999999	CC H4 histone acetyltransferase complex
+GO:0008227	0.992085467455247	0.0354944243980295	2	25	G-protein coupled amine receptor activity	MF	0.9999999999	0.9999999999	MF G-protein coupled amine receptor activity
+GO:0080008	1	0.0359419691242948	0	18	Cul4-RING E3 ubiquitin ligase complex	CC	0.9999999999	0.9999999999	CC Cul4-RING E3 ubiquitin ligase complex
+GO:0004984	0.989089956829134	0.0360730536806458	3	74	olfactory receptor activity	MF	0.9999999999	0.9999999999	MF olfactory receptor activity
+GO:0017056	0.994711248178215	0.0364361509467114	1	23	structural constituent of nuclear pore	MF	0.9999999999	0.9999999999	MF structural constituent of nuclear pore
+GO:0005839	0.994520233992885	0.0368456353693677	1	28	proteasome core complex	CC	0.9999999999	0.9999999999	CC proteasome core complex
+GO:0016655	0.994403962141161	0.036954829866018	1	34	oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	MF	0.9999999999	0.9999999999	MF oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor
+GO:0090502	0.990935982047889	0.0386881574843866	2	33	RNA phosphodiester bond hydrolysis, endonucleolytic	BP	0.9999999999	0.9999999999	BP RNA phosphodiester bond hydrolysis, endonucleolytic
+GO:0031593	0.994241265848344	0.0387512791437451	1	25	polyubiquitin binding	MF	0.9999999999	0.9999999999	MF polyubiquitin binding
+GO:0001816	1	0.0395610396239785	0	12	cytokine production	BP	0.9999999999	0.9999999999	BP cytokine production
+GO:0019932	0.978370136507157	0.0408979671058582	13	92	second-messenger-mediated signaling	BP	0.9999999999	0.9999999999	BP second-messenger-mediated signaling
+GO:0004004	0.980644831668906	0.0412402322127164	9	68	ATP-dependent RNA helicase activity	MF	0.9999999999	0.9999999999	MF ATP-dependent RNA helicase activity
+GO:0008186	0.980644831668906	0.0412402322127164	9	68	RNA-dependent ATPase activity	MF	0.9999999999	0.9999999999	MF RNA-dependent ATPase activity
+GO:0016884	1	0.0412548706681949	0	12	carbon-nitrogen ligase activity, with glutamine as amido-N-donor	MF	0.9999999999	0.9999999999	MF carbon-nitrogen ligase activity, with glutamine as amido-N-donor
+GO:0006999	1	0.0412855536456191	0	13	nuclear pore organization	BP	0.9999999999	0.9999999999	BP nuclear pore organization
+GO:0006814	0.976812009480917	0.0420360725172659	14	133	sodium ion transport	BP	0.9999999999	0.9999999999	BP sodium ion transport
+GO:0051117	0.993337434006968	0.0433601394563073	1	27	ATPase binding	MF	0.9999999999	0.9999999999	MF ATPase binding
+GO:0061343	0.989754663303506	0.0438237944825298	2	26	cell adhesion involved in heart morphogenesis	BP	0.9999999999	0.9999999999	BP cell adhesion involved in heart morphogenesis
+GO:1902305	1	0.0449329551593969	0	12	regulation of sodium ion transmembrane transport	BP	0.9999999999	0.9999999999	BP regulation of sodium ion transmembrane transport
+GO:2000649	1	0.0449329551593969	0	12	regulation of sodium ion transmembrane transporter activity	BP	0.9999999999	0.9999999999	BP regulation of sodium ion transmembrane transporter activity
+GO:0009152	0.97354463591703	0.0461505061811113	16	128	purine ribonucleotide biosynthetic process	BP	0.9999999999	0.9999999999	BP purine ribonucleotide biosynthetic process
+GO:0015081	0.975474772856759	0.0462551497900906	12	107	sodium ion transmembrane transporter activity	MF	0.9999999999	0.9999999999	MF sodium ion transmembrane transporter activity
+GO:0000478	0.992513539540945	0.0478175324269126	1	26	endonucleolytic cleavage involved in rRNA processing	BP	0.9999999999	0.9999999999	BP endonucleolytic cleavage involved in rRNA processing
+GO:0007482	1	0.0493605268098055	0	11	haltere development	BP	0.9999999999	0.9999999999	BP haltere development
+GO:0016594	1	0.0495722463755409	0	12	glycine binding	MF	0.9999999999	0.9999999999	MF glycine binding
+GO:0010614	1	0.0497782191371143	0	12	negative regulation of cardiac muscle hypertrophy	BP	0.9999999999	0.9999999999	BP negative regulation of cardiac muscle hypertrophy
+GO:0014741	1	0.0497782191371143	0	12	negative regulation of muscle hypertrophy	BP	0.9999999999	0.9999999999	BP negative regulation of muscle hypertrophy
